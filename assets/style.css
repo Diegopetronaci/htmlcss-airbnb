@@ -11,12 +11,17 @@
   text-align: center;
 }
 
+.layover{
+  position: absolute;
+  left: 7%;
+  width: 85vw;
+  height: 91%;
+  background-color: rgba(0, 0, 0, 0.5)
+}
+
 img{
   width: 85vw;
-  box-shadow:  5px  5px 5px #dedede,
-               5px  5px 5px #dedede,
-               5px  5px 5px #dedede,
-               5px  5px 5px #dedede;
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.90);
 }
 
 h1{
