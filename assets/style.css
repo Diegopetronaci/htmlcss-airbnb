@@ -12,10 +12,17 @@
 }
 
 img{
-  width: 85%;
+  width: 85vw;
+  box-shadow:  5px  5px 5px #dedede,
+               5px  5px 5px #dedede,
+               5px  5px 5px #dedede,
+               5px  5px 5px #dedede;
 }
 
 h1{
+  color: white;
+  font-weight: 600;
+  text-shadow: 3px 3px 3px rgba(10, 5, 3, 0.51);
   position: absolute;
   top: 50%;
   left: 50%;
